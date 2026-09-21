@@ -1,6 +1,3 @@
 {
-  "installCommand": "pnpm install --no-frozen-lockfile",
-  "engines": {
-    "node": "18.x"
-  }
+  "installCommand": "pnpm install --no-frozen-lockfile"
 }
